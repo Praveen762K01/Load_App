@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "14948718246",
+    "firebase_url": "https://loadapp-e27b3-default-rtdb.firebaseio.com",
+    "project_id": "loadapp-e27b3",
+    "storage_bucket": "loadapp-e27b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14948718246:android:2d3c0b85319e5d322bc667",
+        "android_client_info": {
+          "package_name": "www.loadapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14948718246-3bpn9m1bnvbmqqi019q957749bmlv15t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.loadapp.com",
+            "certificate_hash": "a5a5bb6ab4c9d870e5b0babe926dcdc5c6c0664c"
+          }
+        },
+        {
+          "client_id": "14948718246-euc2l747pm9gg4angv534q7qkr7eujns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.loadapp.com",
+            "certificate_hash": "d7c09b34ee2ca1004267ade8a7a4eb087c344af7"
+          }
+        },
+        {
+          "client_id": "14948718246-c2dkcvqg78p059v6mjeohn2qjd937rr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZBwxTHuoMjwRDsQYE7bLsEsxYV35CoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14948718246-c2dkcvqg78p059v6mjeohn2qjd937rr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14948718246:android:618bb42cfa4647812bc667",
+        "android_client_info": {
+          "package_name": "www.loadapp.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14948718246-0v0gj2lnmgjuvog5baok01sc7tb97vr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.loadapp.in",
+            "certificate_hash": "a5a5bb6ab4c9d870e5b0babe926dcdc5c6c0664c"
+          }
+        },
+        {
+          "client_id": "14948718246-32lnlur5hbt81t43jlem06jt804vj5av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.loadapp.in",
+            "certificate_hash": "d7c09b34ee2ca1004267ade8a7a4eb087c344af7"
+          }
+        },
+        {
+          "client_id": "14948718246-c2dkcvqg78p059v6mjeohn2qjd937rr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZBwxTHuoMjwRDsQYE7bLsEsxYV35CoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14948718246-c2dkcvqg78p059v6mjeohn2qjd937rr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
